@@ -12,5 +12,13 @@ A Collection of awesome React Component which support TypeScript
 * [react-notification](https://github.com/pburtchaell/react-notification) - Snackbar notifications for React
 
 ### Menu
-* [react-sidebar] (https://github.com/balloob/react-sidebar) - A sidebar component for React
+* [react-sidebar](https://github.com/balloob/react-sidebar) - A sidebar component for React
 
+### Editor 
+* [react-quill](https://github.com/zenoamaro/react-quill) - A Quill component for React.
+
+## Application Framework Component
+
+### Router
+
+* [react-router](https://github.com/ReactTraining/react-router) - Declarative routing for React 
