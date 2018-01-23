@@ -7,6 +7,7 @@ A Collection of awesome React Component which support TypeScript
 
 * [ag-gird](https://github.com/ag-grid/ag-grid) - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components 
 * [Griddle](https://github.com/GriddleGriddle/Griddle) - Simple Grid Component written in React 
+* [react-bootstrap-table](https://github.com/AllenFang/react-bootstrap-table) - A Bootstrap table built with React.js 
 
 ### Notification
 * [react-notification](https://github.com/pburtchaell/react-notification) - Snackbar notifications for React
