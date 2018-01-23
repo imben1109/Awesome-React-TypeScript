@@ -25,5 +25,5 @@ A Collection of awesome React Component which support TypeScript
 
 ## Utils Library
 
-* [lodash](https://github.com/lodash/lodash - A modern JavaScript utility library delivering modularity, performance, & extras. 
-* [moment](https://github.com/moment/moment/) - Parse, validate, manipulate, and display dates in javascript. 
+* [lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras. 
+* [moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript. 
