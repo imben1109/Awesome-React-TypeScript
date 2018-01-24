@@ -29,7 +29,7 @@ A Collection of awesome React Component which support TypeScript
 * [react-sticky](https://github.com/captivationsoftware/react-sticky) - <Sticky /> component for awesome React apps
 
 ### Tabs
-* [react-tabs](https://github.com/reactjs/react-tabs) - https://github.com/reactjs/react-tabs
+* [react-tabs](https://github.com/reactjs/react-tabs) - An accessible and easy tab component for ReactJS.
 
 ### Loading Bar
 * halogen
