@@ -7,29 +7,29 @@ A Collection of awesome React Component which support TypeScript
 * [ag-gird](https://github.com/ag-grid/ag-grid) - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components 
 * [Griddle](https://github.com/GriddleGriddle/Griddle) - Simple Grid Component written in React 
 * [react-bootstrap-table](https://github.com/AllenFang/react-bootstrap-table) - A Bootstrap table built with React.js 
-* react-data-grid
-* fixed-data-table
+* [react-data-grid](https://github.com/adazzle/react-data-grid) - Excel-like grid component built with React, with editors, keyboard navigation, copy & paste, and the like
+* [fixed-data-table](https://github.com/facebookarchive/fixed-data-table) - A React table component designed to allow presenting thousands of rows of data. 
 
 ### Scroll
-* react-infinite
+* [react-infinite](https://github.com/seatgeek/react-infinite) - A browser-ready efficient scrolling container based on UITableView
 * [react-virtualized](https://github.com/bvaughn/react-virtualized) -  React components for efficiently rendering large lists and tabular data 
 
 ### Popup Window
 * [react-overlays](https://github.com/react-bootstrap/react-overlays) - Utilities for creating robust overlay components
-* react-modal
+* [react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React
 
 ### Tooltip
-* rc-tooltip
+* [rc-tooltip](https://github.com/react-component/tooltip) - React Tooltip
 
 ### Notification
 * [react-notification](https://github.com/pburtchaell/react-notification) - Snackbar notifications for React
-* react-notification-system
+* [react-notification-system](https://github.com/igorprado/react-notification-system) - A complete and totally customizable component for notifications in React 
 
 ### Fixed Header
-* react-sticky
+* [react-sticky](https://github.com/captivationsoftware/react-sticky) - <Sticky /> component for awesome React apps
 
 ### Tabs
-* react-tabs
+* [react-tabs](https://github.com/reactjs/react-tabs) - https://github.com/reactjs/react-tabs
 
 ### Loading Bar
 * halogen
@@ -112,7 +112,7 @@ A Collection of awesome React Component which support TypeScript
 
 ## Animation
 
-### transitions
+### Transitions
 * react-motion
 
 ## Application Framework Component
