@@ -46,21 +46,21 @@ A Collection of awesome React Component which support TypeScript
 * [react-sidebar](https://github.com/balloob/react-sidebar) - A sidebar component for React
 
 ### Scroll Bar
-* react-custom-scrollbar
-* react-scrollbar 
-* react-smooth-scrollbar
+* [react-custom-scrollbar](https://github.com/malte-wessel/react-custom-scrollbars) - React scrollbars component 
+* [react-scrollbar](https://github.com/souhe/reactScrollbar) - Scrollbar component for React
+* [react-smooth-scrollbar](https://github.com/idiotWu/react-smooth-scrollbar) - A wrapper for smooth-scrollbar to React Component
 
 ### Paginator
-* react-paginate 
+* [react-paginate](https://github.com/AdeleD/react-paginate) - A ReactJS component that creates a pagination
 
 ### Map
-* react-leaflet
+* [react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps
 
 ### Icon
-* react-icons   
+* [react-icons](https://github.com/gorangajic/react-icons) - svg react icons of popular icon packs
 
 ### Image
-* react-svg-pan-zoom
+* [react-svg-pan-zoom](https://github.com/chrvadala/react-svg-pan-zoom) - A React component that adds pan and zoom features to SVG 
 
 ### Misc
 * react-scroll
@@ -68,52 +68,52 @@ A Collection of awesome React Component which support TypeScript
 ## Form Compoent
 
 ### Datepicker
-* react-day-picker 
-* react-daterange-picker 
-* react-bootstrap-daterangepicker
-* react-big-calendar 
-* react-dates
+* [react-day-picker](https://github.com/gpbl/react-day-picker) - Flexible date picker for React
+* [react-daterange-picker](https://github.com/onefinestay/react-daterange-picker) - A React based date range picker.
+* [react-bootstrap-daterangepicker](https://github.com/skratchdot/react-bootstrap-daterangepicker) - A date/time picker for react (using bootstrap). This is a react port of bootstrap-daterangepicker.
+* [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) - gcal/outlook like calendar component 
+* [react-dates](https://github.com/airbnb/react-dates) - An easily internationalizable, mobile-friendly datepicker library for the web
 
 ### Input 
-* react-input-mask 
-* react-maskedinput 
+* [react-input-mask](https://github.com/sanniassin/react-input-mask) -Yet another react component for input masking
+* [react-maskedinput](https://github.com/insin/react-maskedinput) - Masked <input/> React component 
 
 ### Textarea
-* react-textarea-autosize
+* [react-textarea-autosize](https://github.com/andreypopp/react-textarea-autosize) - <textarea /> component for React which grows with content
 
 ### Autocomplete
-* react-autosuggest
+* [react-autosuggest](https://github.com/moroshko/react-autosuggest) - WAI-ARIA compliant React autosuggest component 
 
 ### Select
-* react-select 
+* [react-select](https://github.com/JedWatson/react-select) - A Select control built with and for React JS 
 
 ### Color picker
-* react-color 
+* [react-color](https://github.com/casesandberg/react-color) - Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more 
 
 ### Toggle
-* react-toggle
+* [react-toggle](https://github.com/aaronshaf/react-toggle) - Elegant, accessible toggle component for React. Also a glorified checkbox. 
 
 ### Slider
-* rc-slider
+* [rc-slider](https://github.com/react-component/slider) - React Slider 
 
 ### Editor 
 * [react-quill](https://github.com/zenoamaro/react-quill) - A Quill component for React.
-* react-codemirror 
-* draft-js 
+* [react-codemirror](https://github.com/JedWatson/react-codemirror) - Codemirror Component for React.js
+* [draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors. 
 
 ### Misc
-* react-widgets
+* [react-widgets](https://github.com/jquense/react-widgets) - An à la carte set of polished, extensible, and accessible inputs built for React
 
 ### Drag and Drop
-* react-dropzone
-* react-dnd 
-* sortablejs
-* react-sortable-hoc 
+* [react-dropzone](https://github.com/react-dropzone/react-dropzone) - Simple HTML5 drag-drop zone with React.js.
+* [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React 
+* [sortablejs](https://github.com/RubaXa/Sortable) - Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery. Supports Meteor, AngularJS, React, Polymer, Knockout and any CSS library, e.g. Bootstrap.
+* [react-sortable-hoc](https://github.com/clauderic/react-sortable-hoc) - A set of higher-order components to turn any list into an animated, touch-friendly, sortable list
 
 ## Animation
 
 ### Transitions
-* react-motion
+* [react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
 
 ## Application Framework Component
 
