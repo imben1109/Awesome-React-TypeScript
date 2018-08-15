@@ -99,7 +99,8 @@ A Collection of awesome React Component which support TypeScript
 ### Editor 
 * [react-quill](https://github.com/zenoamaro/react-quill) - A Quill component for React.
 * [react-codemirror](https://github.com/JedWatson/react-codemirror) - Codemirror Component for React.js
-* [draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors. 
+* [draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
+* [react-monaco-editor](https://github.com/superRaytin/react-monaco-editor) - React Wrapper for Microsoft Monaco Editor
 
 ### Misc
 * [react-widgets](https://github.com/jquense/react-widgets) - An à la carte set of polished, extensible, and accessible inputs built for React
