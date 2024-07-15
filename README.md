@@ -6,9 +6,7 @@ A Collection of awesome React Component which support TypeScript
 ### Grid Table
 * [ag-gird](https://github.com/ag-grid/ag-grid) - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components 
 * [Griddle](https://github.com/GriddleGriddle/Griddle) - Simple Grid Component written in React 
-* [react-bootstrap-table](https://github.com/AllenFang/react-bootstrap-table) - A Bootstrap table built with React.js 
 * [react-data-grid](https://github.com/adazzle/react-data-grid) - Excel-like grid component built with React, with editors, keyboard navigation, copy & paste, and the like
-* [fixed-data-table](https://github.com/facebookarchive/fixed-data-table) - A React table component designed to allow presenting thousands of rows of data. 
 
 ### Scroll
 * [react-infinite](https://github.com/seatgeek/react-infinite) - A browser-ready efficient scrolling container based on UITableView
